@@ -635,6 +635,10 @@ pre code {
   padding-left: 15px;
 }
 
+.button_end{
+  text-align: center;
+}
+
 .col {
   -webkit-flex-basis: 0;
       -ms-flex-preferred-size: 0;
